@@ -3,6 +3,7 @@
 .p1{
 	width:200px;
 	background-color: purple;
+	text-decoration:underline;
 	padding:10px;
 	color:white;
 	border-width:medium;
